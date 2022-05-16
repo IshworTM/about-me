@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ishwor Dulal
 - 👀 I’m interested in programming and gaming
 - 🌱 I’m currently learning python & bash scripting ...
-- 📫 Discord- ishwor#34723
+- 📫 Discord- ishwor#3423
 - ⚔️ Minecraft Ign- Assignin
 
 
