@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ishwor
 - 👀 I’m interested in coding and gaming
 - 🌱 I’m currently learning python, js and shell, but i get distracted all the time.
-- 📫 Discord- ishwor#3423
+- 📫 Discord- ishwor#1850
 
 
 
