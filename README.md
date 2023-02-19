@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ishwor
-- 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning python, js and shell, but i get distracted all the time.
+- 👋 Hi, I’m Ishwor;
+- 👀 I’m a programmer and a future cybersecurity expert ;
+- 🌱 Learning Python, js and shell, but i get distracted most of the time so everything is incomplete 😐;
 - 📫 Discord- ishwor#1850
 
 
